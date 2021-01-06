@@ -1,0 +1,135 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: ;
+    background-color:whitesmoke;
+}
+h1{
+        font-size: 50px;
+    }
+
+.name-highlight{
+    color:chocolate;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    color:white;
+    background-color:coral;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 600;
+}
+#middle{
+    height:800px;
+    float: left;
+}
+
+#End-site h1{
+      text-align:center;
+}
+#End-site {
+    height: 700px;
+    float: left;
+    overflow: hidden;
+}
+.a{
+    width:28%;
+    float:left;
+    margin-left:5%;
+    box-shadow: 10px 10px 30px gainsboro;
+    border-radius: 5px;
+}
+.a img{
+    height:300px;
+    width:100%;
+}
+.b{
+    width:28%;
+    float:left;
+    overflow:hidden;
+    margin-left:3%;
+    box-shadow: 10px 10px 30px gainsboro;
+    border-radius: 5px;
+}
+.b img{
+    height:300px;
+    width:100%;
+}
+.c{
+    width:28%;
+    float:left;
+    margin-left:3%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 30px gainsboro;
+    border-radius: 5px;
+}
+.c img{
+    height:300px;
+    width:100%;
+}
+.massege {
+    float: left;
+    color: #FFFFFF;
+    width: 100%;
+}
+.massege h3 {
+	color: #e84118;
+}
+.massege .name-highlight {
+    background-color: tomato;
+    color: white;
+}
+#down-banner {
+    float:left;
+    background-image: url("images/background.png");
+    width: 60%;
+    margin-left: 20%;
+}
+.banner h1{
+    color:white;
+    margin-left:4%;
+    margin-bottom: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#F{
+    margin-left: 78%;
+    color:white;
+    background-color:coral;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 600;
+    padding: 10px 20px;
+    overflow:hidden;
+}
+#F{
+    margin-top: 150px;
+}
+.End-part{
+    height: 100px;
+    width: 50%;
+    margin-left: 25%;
+    color:indigo;
+}
+.communication{
+    text-align: center;
+}
+.Email{
+    text-align: center;
+    font-size: 30px;
+}
+#Footer-area{
+    margin-left: 30%;
+}
+#Footer-area img {
+    height: 50px;
+    width: auto;
+    margin-left: 3%;
+}
